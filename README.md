@@ -40,5 +40,5 @@ Maybe Dragon UnPACKer 5 incorrectly identifies some `.PID` files as **TGA** due 
 
 ### **Workarounds:**
 
-1. **Use Right-Click ? Export**  
+1. **Use Right-Click - Export**  
    This plugin can **still export** these files to **BMP / TGA / PNG** — **this works well**.
