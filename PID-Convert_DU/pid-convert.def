@@ -1,0 +1,13 @@
+LIBRARY PID-Convert_DU
+EXPORTS
+    AboutBox            @1
+    ConfigBox           @2
+    InitPluginEx4       @3
+    InitPlugin          @4
+    VersionInfo2        @5
+    IsFileCompatible    @6
+    GetFileConvert      @7
+    ConvertStream       @8
+    Convert             @9
+    DUCIVersionEx       @10
+    DUCIVersion         @11
