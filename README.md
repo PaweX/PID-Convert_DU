@@ -1,5 +1,6 @@
 # Gruntz (1999) .PID Converter Plugin for Dragon UnPACKer 5
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMBUh9su8-HYI7FkeI0XuMM9v705qBKd4cNweY6e5qJnPWIwjbbrqJ30DsCbGQfBXhXZKoDOvSlqYhE26k-ybNeN8Bt2WNQ6Xx3y_pbr1Gg1pPxgUV48LMtHrQUOGVYsLYW1NuTtwcMzP686PNvpaHADpTlz6b_aevvRA6GSJnsN-BbRbLLS-p7aPBdA3e/s968/Gruntz-gun_hd.png" alt="Gruntz Logo" width="300" />
+
 **Author:** Paweł C. (PaweX3)  
 **Version:** 0.82  
 **DUCI Compatibility:** v3 / v4  
