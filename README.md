@@ -1,7 +1,8 @@
 # Gruntz (1999) .PID Converter Plugin for Dragon UnPACKer 5
 
-![Gruntz Logo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMBUh9su8-HYI7FkeI0XuMM9v705qBKd4cNweY6e5qJnPWIwjbbrqJ30DsCbGQfBXhXZKoDOvSlqYhE26k-ybNeN8Bt2WNQ6Xx3y_pbr1Gg1pPxgUV48LMtHrQUOGVYsLYW1NuTtwcMzP686PNvpaHADpTlz6b_aevvRA6GSJnsN-BbRbLLS-p7aPBdA3e/s968/Gruntz-gun_hd.png)  
-**Author:** Pawe³ C. (PaweX3)  
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMBUh9su8-HYI7FkeI0XuMM9v705qBKd4cNweY6e5qJnPWIwjbbrqJ30DsCbGQfBXhXZKoDOvSlqYhE26k-ybNeN8Bt2WNQ6Xx3y_pbr1Gg1pPxgUV48LMtHrQUOGVYsLYW1NuTtwcMzP686PNvpaHADpTlz6b_aevvRA6GSJnsN-BbRbLLS-p7aPBdA3e/s968/Gruntz-gun_hd.png" alt="Gruntz Logo" width="300" />
+
+**Author:** PaweÅ‚ C. (PaweX3)  
 **Version:** 0.82  
 **DUCI Compatibility:** v3 / v4  
 **Supported Formats:** `.PID` (8-bit paletted, RLE-compressed) ? **BMP**, **TGA**, **PNG**
@@ -20,7 +21,7 @@ This plugin enables **support** for `.PID` image files from the 1999 game **Grun
 - **Embedded or default palette** support
 - **Configurable PNG output mode** (8/24/32 bpp)
 
-> **Note:** The plugin works **even if DU5 crashes on preview** — you can still **right-click ? Export** to convert files successfully.
+> **Note:** The plugin works **even if DU5 crashes on preview** â€” you can still **right-click ? Export** to convert files successfully.
 
 ---
 
@@ -40,4 +41,4 @@ Maybe Dragon UnPACKer 5 incorrectly identifies some `.PID` files as **TGA** due 
 ### **Workarounds:**
 
 1. **Use Right-Click ? Export**  
-   This plugin can **still export** these files to **BMP / TGA / PNG** — **this works well**.
+   This plugin can **still export** these files to **BMP / TGA / PNG** â€” **this works well**.
