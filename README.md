@@ -10,7 +10,7 @@
 
 ## 💡 Overview
 
-This plugin enables **full support** for `.PID` image files from the game **Gruntz** in **Dragon UnPACKer 5**. It allows:
+This plugin enables **support** for `.PID` image files from the game **Gruntz** in **Dragon UnPACKer 5**. It allows:
 
 - **Preview** (when plugin is loaded)
 - **Export** to **BMP (24-bit)**, **TGA (8-bit indexed)**, and **PNG (8/24/32-bit with alpha)**
