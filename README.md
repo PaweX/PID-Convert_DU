@@ -8,7 +8,7 @@
 
 ---
 
-## Overview
+## 💡 Overview
 
 This plugin enables **full support** for `.PID` image files from the 1999 game **Gruntz** in **Dragon UnPACKer 5**. It allows:
 
@@ -29,7 +29,7 @@ This plugin enables **full support** for `.PID` image files from the 1999 game *
 2. Copy `.d5c` to `Dragon UnPACKer 5\data\convert\`.
 3. Restart DU5 and right-click .PID files -> Export.
 
-## Known Issue: Preview Crash in Dragon UnPACKer
+## ⚠️ Known Issue: Preview Crash in Dragon UnPACKer
 
 > **Error:**
 > ```
