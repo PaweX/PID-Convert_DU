@@ -40,7 +40,7 @@ This plugin enables **support** for `.PID` image files from the game **Gruntz** 
 ### This happens **even without the plugin installed**.
 
 **Cause:**  
-Dragon UnPACKer 5 incorrectly identifies some `.PID` files as **TGA** due to similar headers or internal driver bugs. It attempts to use its **built-in TGA previewer**, which crashes on invalid data.
+Probably Dragon UnPACKer 5 incorrectly identifies some `.PID` files as **TGA** due to similar headers or internal driver bugs. It attempts to use its **built-in TGA previewer**, which crashes on invalid data.
 
 ### **Workarounds:**
 
